@@ -1,4 +1,4 @@
-# crypto-sentiment
+# crypto sentiment index
 
 # application of neural networks for sentiment analysis. we use X (twitter) data to model price changes.
 
